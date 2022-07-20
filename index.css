@@ -392,6 +392,52 @@
 
 @media(max-width:750px) {
 
+    .header-content-wrapper{
+      align-self: center;
+    
+    }
+    .full-name{
+        font-size: medium;
+    }
+    .hero-wrapper{
+        align-self: center;
+    }
+    .about-brief{
+        font-size: 20px;
+    }
+    .place-of-work-wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+    .place-of-work-pill{
+        font-size: 25px;
+    }
+    .project-card-wrapper{
+        margin-left: 8rem;
+    }
+    .stack{
+        margin-left: 4rem;
+    }
+    .stack-group{
+        margin-left: 4rem;
+    }
+    .service-card-wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+    .service-brief{
+        font-size: 20px;
+    }
+    .service-section{
+        margin-left: 2rem;
+    }
+    .form-group{
+        margin-left: 4rem;
+    }
+    .connect-with-me{
+        margin-left: 4rem;
+    }
+
 }
 
 
