@@ -415,8 +415,8 @@
     .place-of-work-pill{
         font-size: 25px;
     }
-    .project-card-wrapper{
-        margin-left: 8rem;
+    .project-card-img{
+        max-width: 100%;
     }
     .stack{
         margin-left: 4rem;
