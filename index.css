@@ -415,20 +415,17 @@
         font-size: 25px;
     }
     .project-card-wrapper{
-        width: 55%;
+        width: 50%;
         height: 50%;
     }
     .card-content{
         margin-left: 150px;
     }
-    .project-links{
-        margin-left: 7rem;
-    }
     .stack{
-        margin-left: 4rem;
+        margin-left: 1rem;
     }
     .stack-group{
-        margin-left: 1rem;
+        margin-left: 0.5rem;
     }
     .service-card-wrapper{
         display: flex;
@@ -439,6 +436,12 @@
     }
     .service-section{
         margin-left: 0.5rem;
+    }
+    .form-group input{
+        width: 300px;
+    }
+    .form-group textarea{
+        width: 300px;
     }
     .connect-with-me{
         margin-left: 0.5rem;
