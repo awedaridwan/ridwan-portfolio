@@ -390,8 +390,11 @@
     bottom: 10px;
 }
 
-@media(max-width:750px) {
-
+@media screen and (max-width:750px) {
+     .html, body{
+        width: 100%;
+        overflow-x: hidden;
+     }
     .header-content-wrapper{
       align-self: center;
     
