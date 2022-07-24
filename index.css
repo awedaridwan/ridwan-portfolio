@@ -397,7 +397,6 @@
      }
     .header-content-wrapper{
       align-self: center;
-    
     }
     .full-name{
         font-size: medium;
@@ -415,14 +414,21 @@
     .place-of-work-pill{
         font-size: 25px;
     }
-    .project-card-img{
-        max-width: 100%;
+    .project-card-wrapper{
+        width: 55%;
+        height: 50%;
+    }
+    .card-content{
+        margin-left: 150px;
+    }
+    .project-links{
+        margin-left: 7rem;
     }
     .stack{
         margin-left: 4rem;
     }
     .stack-group{
-        margin-left: 4rem;
+        margin-left: 1rem;
     }
     .service-card-wrapper{
         display: flex;
@@ -432,13 +438,10 @@
         font-size: 21px;
     }
     .service-section{
-        margin-left: 2rem;
-    }
-    .form-group{
-        margin-left: 4rem;
+        margin-left: 0.5rem;
     }
     .connect-with-me{
-        margin-left: 4rem;
+        margin-left: 0.5rem;
     }
 
 }
