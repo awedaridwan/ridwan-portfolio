@@ -418,6 +418,10 @@
         width: 50%;
         height: 50%;
     }
+    .project-links{
+        margin-left: 7rem;
+    }
+
     .card-content{
         margin-left: 150px;
     }
@@ -433,9 +437,6 @@
     }
     .service-brief{
         font-size: 21px;
-    }
-    .service-section{
-        margin-left: 0.5rem;
     }
     .form-group input{
         width: 300px;
